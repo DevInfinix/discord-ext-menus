@@ -27,9 +27,9 @@ if version.endswith(('a', 'b', 'rc')):
 
 setup(name='pycord-ext-menus',
       author='Rapptz',
-      url='https://github.com/DevInfinix/discord-ext-menus',
+      url='https://github.com/DevInfinix/pycord-ext-menus',
       version=version,
-      packages=['pycord.ext.menus'],
+      packages=['discord.ext.menus'],
       license='MIT',
       description='An extension module to make reaction based menus with pycord',
       install_requires=[],
