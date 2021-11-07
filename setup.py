@@ -32,6 +32,6 @@ setup(name='pycord-ext-menus',
       packages=['pycord.ext.menus'],
       license='MIT',
       description='An extension module to make reaction based menus with pycord',
-      install_requires=['git+https://github.com/Pycord-Development/pycord'],
+      install_requires=['py-cord>=2.0.0a4180+gac13ead'],
       python_requires='>=3.5.3'
 )
